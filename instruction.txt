@@ -1,0 +1,35 @@
+Source Code Management
+
+Git Tool
+
+https://git-scm.com
+
+
+<anil> 
+
+Tags/Element
+<anil>
+<html></html>
+
+2 Types of HTML Tags
+	1. Single Tag
+				<!doctype html>
+	2. Pair Tag
+				<start>Content</end>
+				<html></html>
+
+
+Proper gapping  =  Indentation
+
+cls = clear screen
+
+There are 5 Step of Git Commads
+
+1. git init  (initialize)
+2. git remote add origin <repo_link>
+3. git add .   (Stagging)
+4. git commit -m "message"
+5. git push origin master
+
+https://anildalar.github.io/03Nov2022/
+
